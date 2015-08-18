@@ -1,0 +1,35 @@
+itemGroup.Mouldables=Mouldables
+
+item.Mouldables_redMouldingClay.name=Red Moulding Clay
+item.Mouldables_blackMouldingClay.name=Black Moulding Clay
+item.Mouldables_blueMouldingClay.name=Blue Moulding Clay
+item.Mouldables_cyanMouldingClay.name=Cyan Moulding Clay
+item.Mouldables_darkGreyMouldingClay.name=Grey Moulding Clay
+item.Mouldables_greenMouldingClay.name=Green Moulding Clay
+item.Mouldables_lightBlueMouldingClay.name=Light Blue Moulding Clay
+item.Mouldables_lightGreyMouldingClay.name=Light Grey Moulding Clay
+item.Mouldables_limeMouldingClay.name=Lime Moulding Clay
+item.Mouldables_magentaMouldingClay.name=Magenta Moulding Clay
+item.Mouldables_orangeMouldingClay.name=Orange Moulding Clay
+item.Mouldables_pinkMouldingClay.name=Pink Moulding Clay
+item.Mouldables_purpleMouldingClay.name=Purple Moulding Clay
+item.Mouldables_whiteMouldingClay.name=White Moulding Clay
+item.Mouldables_yellowMouldingClay.name=Yellow Moulding Clay
+item.Mouldables_brownMouldingClay.name=Brown Moulding Clay
+
+tile.Mouldables_redConstructionBlock.name=Red Construction Block
+tile.Mouldables_blackConstructionBlock.name=Black Construction Block
+tile.Mouldables_blueConstructionBlock.name=Blue Construction Block
+tile.Mouldables_cyanConstructionBlock.name=Cyan Construction Block
+tile.Mouldables_darkGreyConstructionBlock.name=Grey Construction Block
+tile.Mouldables_greenConstructionBlock.name=Green Construction Block
+tile.Mouldables_lightBlueConstructionBlock.name=Light Blue Construction Block
+tile.Mouldables_lightGreyConstructionBlock.name=Light Grey Construction Block
+tile.Mouldables_limeConstructionBlock.name=Lime Construction Block
+tile.Mouldables_magentaConstructionBlock.name=Magenta Construction Block
+tile.Mouldables_orangeConstructionBlock.name=Orange Construction Block
+tile.Mouldables_pinkConstructionBlock.name=Pink Construction Block
+tile.Mouldables_purpleConstructionBlock.name=Purple Construction Block
+tile.Mouldables_whiteConstructionBlock.name=White Construction Block
+tile.Mouldables_yellowConstructionBlock.name=Yellow Construction Block
+tile.Mouldables_brownConstructionBlock.name=Brown Construction Block

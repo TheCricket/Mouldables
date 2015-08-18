@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Mouldables",
+  "name": "Mouldables",
+  "description": "Mould The World Around You!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "http://authors.curseforge.com/members/chazwade99",
+  "updateUrl": "",
+  "authorList": ["Chazwade"],
+  "credits": "Enarkay_ for Textures.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
