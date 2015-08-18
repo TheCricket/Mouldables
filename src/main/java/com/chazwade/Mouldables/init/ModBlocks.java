@@ -16,7 +16,7 @@ public class ModBlocks {
     }
 
     private static void setup() {
-        construction = new BlockMeta(Material.rock, 16, "constructionBlock");
+        construction = new BlockMeta(Material.rock, 16, "constructionBlock").setBlockName("constructionBlock");
     }
 
     private static void register() {

@@ -11,11 +11,11 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-@Mod(modid = Reference.MODID, version = Reference.VERSION)
+@Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION)
 public class Mouldables
 {
 	//Creative Tab Registration//
-	public static CreativeTabs tabMouldables = new CreativeTabs("Mouldables")
+	public static CreativeTabs tabMouldables = new CreativeTabs("mouldables")
 	{
 		public Item getTabIconItem()
 		{
